@@ -35,7 +35,7 @@ You can join the development mailing list here:
 
 https://lists.sourceforge.net/lists/listinfo/cdesktopenv-devel
 
-There is (was?) also [CDE IRC channel](irc://chat.freenode.net/cde).
+There is (was?) also [CDE IRC channel](irc://chat.freenode.net/cde), #cde on chat.freenode.net.
 
 Bug reports and patches encouraged (but to the original sourceforge site / irc / mailing list).
 
