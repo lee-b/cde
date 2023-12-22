@@ -10,23 +10,18 @@ This release of CDE under a new opensource license is numbered starting at versi
 
 ## Original source location
 
-CDE's original release is at:
+CDE's original release can be found at the [sourceforge cdesktopenv project](http://sourceforge.net/projects/cdesktopenv/).
 
-http://sourceforge.net/projects/cdesktopenv/
+And cloned from:
 
-And at:
-
-git clone git://git.code.sf.net/p/cdesktopenv/code cdesktopenv-code
+    git clone git://git.code.sf.net/p/cdesktopenv/code cdesktopenv-code
 
 The git repository will always be more up to date than the downloadable tarballs we make available, so if you have problems,
 please try the latest version from git master.
 
 ## Installing this release
 
-Complete build and installation instructions can be found on the CDE
-wiki:
-
-http://sourceforge.net/p/cdesktopenv/wiki/Home/
+Complete build and installation instructions can be found on the [CDE Wiki](http://sourceforge.net/p/cdesktopenv/wiki/Home/)
 
 Please go there and read the appropriate section(s) for your OS (Linux or FreeBSD/OpenBSD/NetBSD currently).  There are a variety of dependencies that must be met, as well as specific set up steps required to build.
 
